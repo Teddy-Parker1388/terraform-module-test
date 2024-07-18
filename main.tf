@@ -4,3 +4,4 @@ resource "aws_instance" "my_instance" {
 tags = {
 Name = "Server Two"
 }
+}
