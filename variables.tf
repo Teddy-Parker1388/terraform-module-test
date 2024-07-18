@@ -1,3 +1,4 @@
-variable "index"{
-    default = "012394"
+variable "instance_type" {
+    type = string
+  
 }
