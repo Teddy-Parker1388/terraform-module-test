@@ -1,4 +1,4 @@
 output "mytest"{
-    value = "test-new"
+    value = "test-dev"
 
 }
